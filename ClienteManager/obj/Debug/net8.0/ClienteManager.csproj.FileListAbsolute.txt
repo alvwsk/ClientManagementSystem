@@ -1,0 +1,14 @@
+C:\dev\c#\ClienteManager\ClienteManager\bin\Debug\net8.0\ClienteManager.exe
+C:\dev\c#\ClienteManager\ClienteManager\bin\Debug\net8.0\ClienteManager.deps.json
+C:\dev\c#\ClienteManager\ClienteManager\bin\Debug\net8.0\ClienteManager.runtimeconfig.json
+C:\dev\c#\ClienteManager\ClienteManager\bin\Debug\net8.0\ClienteManager.dll
+C:\dev\c#\ClienteManager\ClienteManager\bin\Debug\net8.0\ClienteManager.pdb
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.AssemblyInfoInputs.cache
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.AssemblyInfo.cs
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.csproj.CoreCompileInputs.cache
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.dll
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\refint\ClienteManager.dll
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.pdb
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ClienteManager.genruntimeconfig.cache
+C:\dev\c#\ClienteManager\ClienteManager\obj\Debug\net8.0\ref\ClienteManager.dll
